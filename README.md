@@ -34,3 +34,6 @@ Monolito
 - Deploy com um unico sistema
 - Executado como um unico processo no sistema operacional
 - Unico banco de dados
+
+# Aula dia 05/03
+
