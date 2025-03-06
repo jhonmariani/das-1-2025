@@ -37,3 +37,21 @@ Monolito
 
 # Aula dia 05/03
 
+- Padrão arquitetural: solução para um problema especifico.
+- MVC: separa as responsabilidades (model(dados) - view(tela) - control(comportamento))
+- Estilo arquitetura = organização do projeto
+
+- Arquitetura em camadas
+- DIvisão de responsabilade
+- Perfomace
+- Segurança
+- Manutenibilidade
+- Camada de apresentação
+  - Requisitos próprios
+- Camada de logica de negocio (aplicação)
+  - Local central para definiição e atualização de regras
+  - Escalar o backend suportar as requisições
+- Camada de persistência
+  - Banco de dados relacional - consolidada
+  - Resolve problemas de concorrencia
+  - Permite compartilhamento de dados
