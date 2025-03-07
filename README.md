@@ -55,3 +55,15 @@ Monolito
   - Banco de dados relacional - consolidada
   - Resolve problemas de concorrencia
   - Permite compartilhamento de dados
+
+ # Aula dia 06/03
+ 
+  - Who Needs an Architect ?https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf
+
+O que é arquitetura?
+  - A arquitetura de um sistema de software(em um dado ponto no tempo) é sua organização ou estrutura de componentes significativos interagindo por meio de interfaces, esses componentes sendo compostos de componentes e interfaces sucessivamente menores
+
+Qual o comportamento do arquiteto da "Matrix"?
+  - É a pessoa que toma todas as decisões importantes. O arquiteto faz isso porque uma única mente é necessária para garantir a integridade conceitual de um sistema, e talvez porque o arquiteto não acha que os membros da equipe são suficientemente qualificados para tomar essas decisões. Frequentemente, essas decisões devem ser tomadas logo no início para que todos os outros tenham um plano a seguir.
+  
+Qual o comportamento do arquiteto ideal?
