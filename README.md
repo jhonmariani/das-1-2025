@@ -72,14 +72,20 @@ Qual o comportamento do arquiteto ideal?
   # Aula 13/03
 
   - Fundamentos da arquitetura de Software
+    - Arquitetura de software é a estrutura que organiza os componentes de um sistema e define como eles se comunicam, garantindo qualidade, desempenho e manutenibilidade.
   - Pensamento arquitetonico
+    - Pensamento arquitetônico é a capacidade de tomar decisões técnicas com visão de longo prazo, equilibrando simplicidade, escalabilidade e evolução do sistema.
 
   # Aula 19/03
 
   - Trade-offs
+    - São escolhas técnicas em que se ganha algo e se perde em outro aspecto, como escolher entre desempenho e simplicidade.
   - Topicos
+    - Tópicos referem-se a canais de comunicação usados em sistemas baseados em eventos, onde produtores publicam mensagens e consumidores se inscrevem para recebê-las.
   - Filas
+    - São estruturas de dados que armazenam mensagens de forma ordenada até que sejam processadas, ajudando a desacoplar componentes e lidar com picos de carga.
   - Fan out
+    - É um padrão em que uma mensagem é enviada simultaneamente para múltiplos destinos, permitindo distribuir o processamento ou acionar diversos serviços ao mesmo tempo.
 
   # Aula 02/04 
 
