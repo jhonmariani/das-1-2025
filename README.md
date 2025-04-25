@@ -68,3 +68,40 @@ Qual o comportamento do arquiteto da "Matrix"?
   
 Qual o comportamento do arquiteto ideal?
   - É orientar a equipe de desenvolvimento, levantar seu nível para que possam assumir questões mais complexas. Melhorar a habilidade da equipe de desenvolvimento dá ao arquiteto uma alavancagem muito maior do que ser o único tomador de decisões e, portanto, correr o risco de ser um gargalo arquitetônico.
+
+  # Aula 13/03
+
+  - Fundamentos da arquitetura de Software
+  - Pensamento arquitetonico
+
+  # Aula 19/03
+
+  - Trade-offs
+  - Topicos
+  - Filas
+  - Fan out
+
+  # Aula 02/04 
+
+  - Trabalho (CHAT)
+
+  # Aula 09/04
+
+  - Caracteristicas Arquiteturais
+  https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/26%5B%3Bvnd.vst.idref%3Dcap4.xhtml%5D!/4
+
+  - RESUMO
+  - ...
+
+  # Aula 16/04
+
+  - Fundamentos da Arquitetura de Software
+  https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/38%5B%3Bvnd.vst.idref%3Dcap9.xhtml%5D!/4
+
+  - RESUMO
+  - ....
+
+  # Aula 24/04
+
+  - Estilo de Arquitetura em Camadas
+  https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/40%5B%3Bvnd.vst.idref%3Dcap10.xhtml%5D!/4
