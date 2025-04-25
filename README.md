@@ -97,6 +97,7 @@ Qual o comportamento do arquiteto ideal?
   https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/26%5B%3Bvnd.vst.idref%3Dcap4.xhtml%5D!/4
 
   - RESUMO
+    
   O que diferencia a arquitetura de software da codificação e do design está na sua função estratégica. Enquanto codificação e design tratam da implementação prática, a arquitetura foca nas decisões estruturais e organizacionais que têm impacto direto em toda a solução, independentemente das funcionalidades específicas do domínio do problema.
     
 Uma característica da arquitetura atende a três critérios:
@@ -120,6 +121,7 @@ Uma característica da arquitetura atende a três critérios:
   https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/38%5B%3Bvnd.vst.idref%3Dcap9.xhtml%5D!/4
 
   - RESUMO
+  - 
   Estilos de arquitetura, ou padrões de arquitetura, descrevem relações entre componentes e suas características, funcionando como atalhos para arquitetos experientes. Cada estilo captura detalhes importantes sobre a estrutura, vantagens, desvantagens e estratégias comuns de implementação. Arquitetos devem estar familiarizados com esses estilos básicos para compreender os padrões maiores e suas implicações no design.
   Padrões fundamentais, como a arquitetura em camadas, continuam a ser usados ao longo do tempo por sua eficácia em organizar o código e as implementações.
 
