@@ -22,8 +22,8 @@ public class Publisher {
             .topicName(topicName)
             .buildClient();
         
-        senderClient.sendMessage(new ServiceBusMessage("Ola do Walter"));
-        System.out.println("Enviado");
+        senderClient.sendMessage(new ServiceBusMessage("Vamo dale"));
+        System.out.println("Marcha");
 
     }
 }
