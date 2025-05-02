@@ -22,7 +22,7 @@ public class Producer {
             .sender()
             .queueName(queueName)
             .buildClient();
-        senderClient.sendMessage(new ServiceBusMessage("Ola do Walter"));
+        senderClient.sendMessage(new ServiceBusMessage("Fala lindo"));
         System.out.println("Enviado");
     }
 }
