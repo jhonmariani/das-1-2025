@@ -1,4 +1,4 @@
 # Arquitetura baseada em Eventos
 
-Instalar e logar na CLI do Azure.
-Criar uma instância do Service Bus.
+1- Instalar e logar na CLI do Azure.
+2- Criar uma instância do Service Bus.
