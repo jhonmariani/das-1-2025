@@ -18,6 +18,7 @@ public class ServiceBusSender {
     private static final String NAMESPACE_FQDN = "sb-das12025-test-brazilsouth.servicebus.windows.net";
 
     public static void main(String[] args) throws IOException {
+        
         // Credenciais para autenticação no Azure.
         DefaultAzureCredential credential = new DefaultAzureCredentialBuilder().build();
 
