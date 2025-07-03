@@ -158,6 +158,29 @@ Uma característica da arquitetura atende a três critérios:
   - Estilo de Arquitetura em Camadas
   https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/40%5B%3Bvnd.vst.idref%3Dcap10.xhtml%5D!/4
 
+SEGUNDO BIMESTRE
+
+  # Aula 07/05
+
+  - https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/42%5B%3Bvnd.vst.idref%3Dcap11.xhtml%5D!/4
+
+  # Aula 08/05
+
+  - Implementação dp cliente kafka
+
+  # Aula 14/05
+
+  - https://nodered.org/docs/getting-started/
+  - https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/44%5B%3Bvnd.vst.idref%3Dcap12.xhtml%5D!/4  -
+
+  # Aula 15/05
+
+  - https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/44%5B%3Bvnd.vst.idref%3Dcap12.xhtml%5D!/4
+
+  # Aula 21/05
+
+  - Implementação de um exemplo de Microkernel
+
   # Aula 28/05
 
   - Arquitetura baseada em camadas
@@ -172,6 +195,8 @@ Por exemplo, se um pedido falha por causa de um cartão de crédito expirado, na
   Um exemplo prático da arquitetura baseada em serviços é um sistema de reciclagem de dispositivos eletrônicos. Nele, cada etapa do processo — como cotação, recebimento, avaliação, faturamento, status do item, reciclagem e relatórios — é tratada por um serviço de domínio independente e implantado separadamente. Isso permite escalar apenas os serviços mais demandados, como cotação e status.
   A interface de usuário também é dividida por domínio, o que melhora a tolerância a falhas, a segurança e a escalabilidade. Além disso, há dois bancos de dados físicos: um para operações externas (cliente) e outro para operações internas, separados por uma zona de rede com controle de acesso, garantindo maior segurança e proteção dos dados.
   É uma escolha pragmática e flexível, ideal para empresas que precisam de modularidade sem a complexidade dos microsserviços mais granulares. Ela é especialmente adequada para designs orientados a domínios, onde cada serviço corresponde a um domínio específico, facilitando a manutenção e a implementação de mudanças.Além disso, essa arquitetura preserva melhor as transações ACID tradicionais, garantindo maior consistência dos dados em comparação com outras arquiteturas distribuídas, que geralmente usam transações BASE e consistência eventual.Por fim, por ter serviços mais granulares, a arquitetura baseada em serviços evita a necessidade intensa de orquestração e coreografia entre múltiplos serviços, simplificando a coordenação das transações comerciais e reduzindo a complexidade operacional.
+
+# Aula 29/05
 
   - Arquitetura baseada em Microsserviços
 https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/54%5B%3Bvnd.vst.idref%3Dcap17.xhtml%5D!/4
